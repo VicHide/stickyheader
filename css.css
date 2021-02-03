@@ -1,0 +1,22 @@
+.modal-whatsapp {
+  background: #4caf50;
+  position: fixed;
+  font-size: 19px;
+  font-weight: bold;
+  right: -65px;
+  width: 170px;
+  height: 50px;
+  z-index: 9;
+  padding: 10px 0;
+  text-align: center;
+  top: 50%;
+  transform-origin: 50% center 0px;
+  transform: rotate(-270deg);
+  color: inherit;
+  letter-spacing: 1px;
+  border-radius: 10px;
+}
+
+.fa-whatsapp-1 {
+  padding-right: 10px;
+}
